@@ -1,2 +1,2 @@
-# GoIT Frontend Course practice
+# My GoIT Frontend Course practice
 
