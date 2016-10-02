@@ -1,2 +1,2 @@
-# test_repository
-Test
+# GoIT Frontend Course practice
+
